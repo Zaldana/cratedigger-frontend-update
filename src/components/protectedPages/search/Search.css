@@ -1,0 +1,16 @@
+.breadcrumb-styles{
+    font-family: "Spartan";
+     padding-top: 80px !important;
+}
+
+.input-spacing{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.results-row{
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+
+}
